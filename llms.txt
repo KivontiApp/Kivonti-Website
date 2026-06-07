@@ -1,0 +1,36 @@
+# Kivonti
+
+> Individuell anpassbare KI- und Voice-Lösungen für kleine und mittlere Unternehmen (KMU). DSGVO-konform, 24/7 erreichbar, persönlich. Leitsatz: „Weniger Aufwand. Mehr Mensch."
+
+Kivonti baut maßgeschneiderte KI- und Sprachtechnologie, die wiederkehrende Arbeit von kleinen Teams übernimmt — Anrufe beantworten, Leads qualifizieren, Termine buchen — damit sich Menschen um das kümmern können, was wirklich zählt.
+
+## Leistungen
+- Voice-Agenten: natürlich klingende Telefon-Agenten, 24/7, verstehen Anliegen statt Stichworte.
+- Lernfähige Chatbots: Website- und WhatsApp-Assistenten in deiner Tonalität, verbessern sich mit jedem Gespräch.
+- Terminbuchung: automatisierte Terminabstimmung per E-Mail und WhatsApp, direkt in den Kalender.
+- Lead-Qualifizierung: Anfragen werden bewertet, sortiert und mit Kontext ins CRM übergeben.
+
+## Ergebnisse
+- 3× schnellere Lead-Qualifizierung
+- 50 % weniger Zeitaufwand bei Routine
+- 95 % Automatisierungsrate
+- 100+ Gespräche täglich abgewickelt
+
+## Integrationen
+WhatsApp, Website, E-Mail, Telefon, gängige CRM-Systeme, Kalender.
+
+## Datenschutz
+DSGVO-konform by design. Transparente Verarbeitung, Speicherung nach europäischem Datenschutzrecht, Daten bleiben in Europa.
+
+## Kontakt
+- Telefon: +49 151 29680889
+- E-Mail: Info@Kivonti.de
+- Sprachen: Deutsch, Englisch
+
+## Seiten
+- Startseite: https://www.kivonti.de/
+- Leistungen: https://www.kivonti.de/leistungen.html
+- Vision: https://www.kivonti.de/vision.html
+- Referenzen: https://www.kivonti.de/referenzen.html
+- FAQ: https://www.kivonti.de/faq.html
+- Kontakt: https://www.kivonti.de/kontakt.html
